@@ -1,0 +1,20 @@
+﻿  1.c
+C:\Users\esher\source\repos\kyrsavaay\kyrsavaay\1.c(131,14): warning C4477: "scanf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "char *(*)[30]"
+C:\Users\esher\source\repos\kyrsavaay\kyrsavaay\1.c(132,11): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "char **"
+C:\Users\esher\source\repos\kyrsavaay\kyrsavaay\1.c(133,56): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char *[30]"
+C:\Users\esher\source\repos\kyrsavaay\kyrsavaay\1.c(133,56): warning C4024: SearchByName: различные типы для формального и фактического параметров 3
+C:\Users\esher\source\repos\kyrsavaay\kyrsavaay\1.c(173,13): warning C4476: "printf": неизвестный символ поля типа "\xd0" в описателе формата
+C:\Users\esher\source\repos\kyrsavaay\kyrsavaay\1.c(371,51): warning C4047: return: "pole_t *" отличается по уровням косвенного обращения от "int"
+C:\Users\esher\source\repos\kyrsavaay\kyrsavaay\1.c(374,58): warning C4047: return: "pole_t *" отличается по уровням косвенного обращения от "int"
+C:\Users\esher\source\repos\kyrsavaay\kyrsavaay\1.c(378,55): warning C4047: return: "pole_t *" отличается по уровням косвенного обращения от "int"
+C:\Users\esher\source\repos\kyrsavaay\kyrsavaay\1.c(381,52): warning C4047: return: "pole_t *" отличается по уровням косвенного обращения от "int"
+C:\Users\esher\source\repos\kyrsavaay\kyrsavaay\1.c(384,52): warning C4047: return: "pole_t *" отличается по уровням косвенного обращения от "int"
+C:\Users\esher\source\repos\kyrsavaay\kyrsavaay\1.c(387,55): warning C4047: return: "pole_t *" отличается по уровням косвенного обращения от "int"
+C:\Users\esher\source\repos\kyrsavaay\kyrsavaay\1.c(416,50): warning C4047: return: "pole_t *" отличается по уровням косвенного обращения от "int"
+C:\Users\esher\source\repos\kyrsavaay\kyrsavaay\1.c(419,57): warning C4047: return: "pole_t *" отличается по уровням косвенного обращения от "int"
+C:\Users\esher\source\repos\kyrsavaay\kyrsavaay\1.c(423,54): warning C4047: return: "pole_t *" отличается по уровням косвенного обращения от "int"
+C:\Users\esher\source\repos\kyrsavaay\kyrsavaay\1.c(426,51): warning C4047: return: "pole_t *" отличается по уровням косвенного обращения от "int"
+C:\Users\esher\source\repos\kyrsavaay\kyrsavaay\1.c(429,51): warning C4047: return: "pole_t *" отличается по уровням косвенного обращения от "int"
+C:\Users\esher\source\repos\kyrsavaay\kyrsavaay\1.c(432,54): warning C4047: return: "pole_t *" отличается по уровням косвенного обращения от "int"
+C:\Users\esher\source\repos\kyrsavaay\kyrsavaay\1.c(332): warning C4715: CompareToQsort: значение возвращается не при всех путях выполнения
+  kyrsavaay.vcxproj -> C:\Users\esher\source\repos\kyrsavaay\x64\Debug\kyrsavaay.exe
